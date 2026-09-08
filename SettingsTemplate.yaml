@@ -31,7 +31,7 @@ body:
     attributes:
       name: separators
       label: "Separator:"
-      defaultValue: "to in :"
+      defaultValue: "to in : ."
       description: "Source⇄destination separators (whitespace-separated)"
   - type: input
     attributes:

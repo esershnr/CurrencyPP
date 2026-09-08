@@ -15,7 +15,7 @@ from flox import Flox, clipboard
 
 DEFAULT_INPUT_CUR = 'USD'
 DEFAULT_OUTPUT_CUR = 'USD EUR JPY'
-DEFAULT_SEPARATORS = 'to in :'
+DEFAULT_SEPARATORS = 'to in : .'
 DEFAULT_DEST_SEPARATORS = 'and & ,'
 DEFAULT_ALIASES = 'USD = $ dollar dollars bucks\nEUR = euro euros'
 DEFAULT_UPDATE_FREQ = 'daily'
