@@ -434,6 +434,3 @@ class CurrencyPP(Flox):
                 raw, DEFAULT_OUTPUT_CUR))
             self.broker.set_default_curs_out(DEFAULT_OUTPUT_CUR)
 
-
-if __name__ == "__main__":
-    CurrencyPP()
